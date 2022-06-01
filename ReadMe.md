@@ -1,8 +1,6 @@
 Apple iPod Hi-Fi A1121 SMPS Repair
 ====
 
-by Simon Bell <simon@newtonresearch.org>
-
 Recently my iPod Hi-Fi just stopped working. No sign of life at all.
 Fortunately(?) I am not alone with this situation.
 [This article](http://www.whatsinside.info/apple-ipod-hi-fi-dock/) led me to suspect the power supply so I took the unit apart to take a closer look.
@@ -20,9 +18,7 @@ So, I have collected here the information I gathered on the journey. I hope it h
 Useful Websites
 ----
 
-Although now officially obsolete, Apple still has iPod Hi-Fi support pages for [“no power” troubleshooting]
-(https://support.apple.com/en-us/HT1724)
-and [FAQs]
+Although now officially obsolete, Apple still has iPod Hi-Fi [FAQs]
 (https://support.apple.com/en-us/HT1640)
 
 More advice on [how to dismantle the unit]
@@ -30,9 +26,6 @@ More advice on [how to dismantle the unit]
 
 Somebody else having a go [in pictures]
 (https://www.flickr.com/photos/42224102@N06/sets/72157624734180975/with/4949551214/)
-
-Great idea for [bringing the unit up-to-date]
-(http://blog.maclabor.de/post/35286908784/dust-your-ipod-hi-fi)
 
 Maybe not so helpful here, but beautiful photographs at [MinimallyMinimal]
 (http://www.minimallyminimal.com/blog/apple-ipod-hi-fi)
